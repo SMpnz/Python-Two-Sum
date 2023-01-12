@@ -12,7 +12,7 @@ class Solution:
         return list(d)
 
 def main():
-    """основной код"""
+    """Проверка алгоритма"""
     ex_s = Solution()
     nums = [2,7,11,15]
     target = 9
